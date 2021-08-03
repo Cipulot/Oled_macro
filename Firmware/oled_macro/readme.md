@@ -1,6 +1,6 @@
 # Handwired 40% with OLED
 
-![Oled_macro](https://github.com/Cipulot/Oled_macro/blob/main/docs/media/Oled_macro.jpg)
+![Oled_macro](https://github.com/Cipulot/Oled_macro/blob/main/Docs/Oled_macro.jpg)
 
 A compact 40% (12x4) ortholinear keyboard with OLED screen support.
 
